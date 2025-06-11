@@ -59,7 +59,22 @@
       <br /><sub><b>AWS</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br /><sub><b>Python</b></sub>
+    </td>
+  </tr>
 </table>
+
+---
+
+<h3 align="left">🔁 DevOps Lifecycle:</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749245-232cf4f7-372f-43a5-9a53-8ef2937c8ce4.png" alt="DevOps Lifecycle" width="600"/>
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
