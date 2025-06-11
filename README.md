@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **mandar.anjikar@gmail.com**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mandaranjikar)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mandar-anjikar-97a3201b3)
 
 ---
 
@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandaranjikar&show_icons=true&theme=radical" alt="mandaranjikar-stats" />
-</p>
-
----
 
 ### 🔗 Let's Connect
 
