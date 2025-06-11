@@ -12,6 +12,55 @@
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/mandar-anjikar-97a3201b3)
 
 ---
+<h3 align="left">🧰 Tools & Technologies:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br /><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="48" height="48" alt="Terraform" />
+      <br /><sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      <br /><sub><b>Jenkins</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      <br /><sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" />
+      <br /><sub><b>Ubuntu</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br /><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      <br /><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br /><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48" alt="AWS" />
+      <br /><sub><b>AWS</b></sub>
+    </td>
+  </tr>
+</table>
+---
 
 ### 🛠️ Tech Stack
 
